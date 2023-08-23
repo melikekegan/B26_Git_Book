@@ -7,3 +7,7 @@ Welcome to Git!
 I hope you are having fun
 
 Missing Java maybe
+
+part 2 for updates 
+
+adding more text
